@@ -1,0 +1,3 @@
+# kalkulacka
+
+A Flutter calculator.
